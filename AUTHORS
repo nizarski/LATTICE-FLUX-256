@@ -1,0 +1,3 @@
+nizarski
+
+I designed and wrote Lattice Flux 256 (LF-256): the time-varying lattice idea, the hybrid envelope (KEM wraps a symmetric key, not the whole file), and the split between map files, key files, and passphrase.
